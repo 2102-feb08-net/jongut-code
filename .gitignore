@@ -1,0 +1,5 @@
+#Each line is a patter
+#If any file or folder matches, it will get ignored.
+bin
+obj
+*.csproj
