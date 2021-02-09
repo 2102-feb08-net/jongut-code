@@ -3,3 +3,4 @@
 bin
 obj
 *.csproj
+#if a file is already tracked by git, the gitignore will not remove it
