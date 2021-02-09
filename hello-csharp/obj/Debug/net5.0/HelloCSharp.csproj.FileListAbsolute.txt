@@ -1,0 +1,16 @@
+C:\revature\hello-csharp\bin\Debug\net5.0\HelloCSharp.exe
+C:\revature\hello-csharp\bin\Debug\net5.0\HelloCSharp.deps.json
+C:\revature\hello-csharp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.json
+C:\revature\hello-csharp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.dev.json
+C:\revature\hello-csharp\bin\Debug\net5.0\HelloCSharp.dll
+C:\revature\hello-csharp\bin\Debug\net5.0\ref\HelloCSharp.dll
+C:\revature\hello-csharp\bin\Debug\net5.0\HelloCSharp.pdb
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.csprojAssemblyReference.cache
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.AssemblyInfo.cs
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.dll
+C:\revature\hello-csharp\obj\Debug\net5.0\ref\HelloCSharp.dll
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.pdb
+C:\revature\hello-csharp\obj\Debug\net5.0\HelloCSharp.genruntimeconfig.cache
