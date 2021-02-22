@@ -70,6 +70,9 @@ INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (2, 6,3);
 INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (3, 7,1);
 INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (3, 8,2);
 INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (3, 9,3);
+INSERT INTO [Product] ([ProductID], [Price], [ProductName]) VALUES (1, 100,'ZTE');
+INSERT INTO [Product] ([ProductID], [Price], [ProductName]) VALUES (2, 600,'SmartPhone');
+INSERT INTO [Product] ([ProductID], [Price], [ProductName]) VALUES (3, 300,'Galaxy');
 /*******************************************************************************
    Adding Product iPhone Priced at $200
 ********************************************************************************/
