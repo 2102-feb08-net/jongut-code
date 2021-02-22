@@ -58,9 +58,9 @@ GO
 /*******************************************************************************
    Adding 3 Records into each table
 ********************************************************************************/
-INSERT INTO [Customers] ([CustomerID], [FirstName], [LastName]) VALUES (1, N'Jonathan',N'Gutierrez');
-INSERT INTO [Customers] ([CustomerID], [FirstName], [LastName]) VALUES (2, N'Alan',N'Walker');
-INSERT INTO [Customers] ([CustomerID], [FirstName], [LastName]) VALUES (3, N'Chris',N'Allen');
+INSERT INTO [Customers] ([CustomerID], [FirstName], [LastName], [CardNumber]) VALUES (1, N'Jonathan',N'Gutierrez', 123441565);
+INSERT INTO [Customers] ([CustomerID], [FirstName], [LastName], [CardNumber]) VALUES (2, N'Alan',N'Walker',881459568);
+INSERT INTO [Customers] ([CustomerID], [FirstName], [LastName], [CardNumber]) VALUES (3, N'Chris',N'Allen', 435891742);
 INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (1, 1,1);
 INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (1, 2,2);
 INSERT INTO [Order] ([CustomerID], [OrderID], [ProductID]) VALUES (1, 3,3);
